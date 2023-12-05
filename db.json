@@ -1,0 +1,680 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "username": "michael_anggriawan",
+      "display_name": "Michael Anggriawan",
+      "image_url": "https://gravatar.com/avatar/b591c8617fd3d1f673b1f6479b7ee432?s=400&d=robohash&r=x",
+      "status": "Online",
+      "phone_number": "+6581234567"
+    },
+    {
+      "id": 1,
+      "username": "john_doe",
+      "display_name": "John Doe",
+      "image_url": "https://gravatar.com/avatar/b591c8617fd3d1f673b1f6479b7ee437?s=400&d=robohash&r=x",
+      "status": "Online",
+      "phone_number": "+6581234567"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "display_name": "Jane Smith",
+      "image_url": "https://gravatar.com/avatar/5eaf991a6651912b88707a85de9d8b72?s=400&d=robohash&r=x",
+      "status": "Online",
+      "phone_number": "+6581231512"
+    },
+    {
+      "id": 3,
+      "username": "alice_wonder",
+      "display_name": "Alice Wonder",
+      "image_url": "https://gravatar.com/avatar/3d6f0eb8aa219c1317a5c22896d3fc31?s=400&d=robohash&r=x",
+      "status": "Online",
+      "phone_number": "+6581232521"
+    },
+    {
+      "id": 4,
+      "username": "bob_builder",
+      "display_name": "Bob Builder",
+      "image_url": "https://gravatar.com/avatar/cbea9f09bc7c78e12583936e132d8d65?s=400&d=robohash&r=x",
+      "status": "Offline",
+      "phone_number": "+6581232321"
+    },
+    {
+      "id": 5,
+      "username": "carol_singer",
+      "display_name": "Carol Singer",
+      "image_url": "https://gravatar.com/avatar/5dddc64c84d4a151f1c741f6a064a4db?s=400&d=robohash&r=x",
+      "status": "Online",
+      "phone_number": "+6581212261"
+    },
+    {
+      "id": 6,
+      "username": "dave_driver",
+      "display_name": "Dave Driver",
+      "image_url": "https://gravatar.com/avatar/9e5928dbca6fc6f9e6fe29a7e4f5b5a6?s=400&d=robohash&r=x",
+      "status": "Online",
+      "phone_number": "+6581264261"
+    },
+    {
+      "id": 7,
+      "username": "ella_explorer",
+      "display_name": "Ella Explorer",
+      "image_url": "https://gravatar.com/avatar/c9e850c094c20fc04e3e7d9385421504?s=400&d=robohash&r=x",
+      "status": "Online",
+      "phone_number": "+6581378567"
+    },
+    {
+      "id": 8,
+      "username": "frank_farmer",
+      "display_name": "Frank Farmer",
+      "image_url": "https://gravatar.com/avatar/e534f607b4316333b41693036c86eb9f?s=400&d=robohash&r=x",
+      "status": "Offline",
+      "phone_number": "+6581278561"
+    },
+    {
+      "id": 9,
+      "username": "grace_gardener",
+      "display_name": "Grace Gardener",
+      "image_url": "https://gravatar.com/avatar/e2e9e5da64c9b78a7e9e70c26ed3db31?s=400&d=robohash&r=x",
+      "status": "Online",
+      "phone_number": "+6581234567"
+    },
+    {
+      "id": 10,
+      "username": "hank_hiker",
+      "display_name": "Hank Hiker",
+      "image_url": "https://gravatar.com/avatar/361c11566fc1e7804c369b956d54dbb3?s=400&d=robohash&r=x",
+      "status": "Online",
+      "phone_number": "+6581234567"
+    },
+    {
+      "id": 11,
+      "username": "isabel_icecream",
+      "display_name": "Isabel Icecream",
+      "image_url": "https://gravatar.com/avatar/fc8b7fe527d031d8282a8f803b0c3a74?s=400&d=robohash&r=x",
+      "status": "Online",
+      "phone_number": "+6581234567"
+    },
+    {
+      "id": 12,
+      "username": "jack_jogger",
+      "display_name": "Jack Jogger",
+      "image_url": "https://gravatar.com/avatar/3ce84a2ad9474391ac49d7ea9b5236f8?s=400&d=robohash&r=x",
+      "status": "Offline",
+      "phone_number": "+6581234567"
+    },
+    {
+      "id": 13,
+      "username": "kate_kayaker",
+      "display_name": "Kate Kayaker",
+      "image_url": "https://gravatar.com/avatar/786cfa50c91ceee3a8f4d74065a8f6a7?s=400&d=robohash&r=x",
+      "status": "Online",
+      "phone_number": "+6581234567"
+    },
+    {
+      "id": 14,
+      "username": "leo_librarian",
+      "display_name": "Leo Librarian",
+      "image_url": "https://gravatar.com/avatar/d1f30a7b05973f1273f5f2eb003c2c68?s=400&d=robohash&r=x",
+      "status": "Online",
+      "phone_number": "+6581234567"
+    },
+    {
+      "id": 15,
+      "username": "mia_musician",
+      "display_name": "Mia Musician",
+      "image_url": "https://gravatar.com/avatar/e8a8255da21ffcb6ed29a8b19bdaee0e?s=400&d=robohash&r=x",
+      "status": "Online",
+      "phone_number": "+6581234567"
+    }
+  ],
+  "messages": [
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 1,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:35:00.000Z"
+    },
+    {
+      "id": 1,
+      "sender_id": 1,
+      "receiver_id": 0,
+      "text": "I am good too, are you free on Friday?",
+      "timestamp": "2023-01-14T10:40:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 1,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:45:00.000Z"
+    },
+    {
+      "id": 1,
+      "sender_id": 1,
+      "receiver_id": 0,
+      "text": "Alright, see you later",
+      "timestamp": "2023-01-14T10:50:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 1,
+      "text": "Hi Alice, How are you?",
+      "timestamp": "2023-01-14T11:00:00.000Z"
+    },
+    {
+      "id": 1,
+      "sender_id": 1,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am doing well. What about you?",
+      "timestamp": "2023-01-14T11:05:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 1,
+      "text": "I am good too. Any plans for the weekend?",
+      "timestamp": "2023-01-14T11:10:00.000Z"
+    },
+    {
+      "id": 1,
+      "sender_id": 1,
+      "receiver_id": 0,
+      "text": "Not yet. Maybe we can catch up for coffee?",
+      "timestamp": "2023-01-14T11:15:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 1,
+      "text": "Sure, that sounds like a plan. Let's do it!",
+      "timestamp": "2023-01-14T11:20:00.000Z"
+    },
+    {
+      "id": 1,
+      "sender_id": 1,
+      "receiver_id": 0,
+      "text": "Great! I'll find a good coffee shop. See you then!",
+      "timestamp": "2023-01-14T11:25:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 1,
+      "text": "Sounds like a plan. Looking forward to it!",
+      "timestamp": "2023-01-14T11:30:00.000Z"
+    },
+    {
+      "id": 1,
+      "sender_id": 1,
+      "receiver_id": 0,
+      "text": "Hi Alice, How are you?",
+      "timestamp": "2023-01-14T11:35:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 1,
+      "text": "Hello Michael! I'm doing well. What's up?",
+      "timestamp": "2023-01-14T11:40:00.000Z"
+    },
+    {
+      "id": 1,
+      "sender_id": 1,
+      "receiver_id": 0,
+      "text": "Not much. Just catching up with friends. How about you?",
+      "timestamp": "2023-01-14T11:45:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 1,
+      "text": "Same here! Let's plan something fun for the weekend.",
+      "timestamp": "2023-01-14T11:50:00.000Z"
+    },
+    {
+      "id": 1,
+      "sender_id": 1,
+      "receiver_id": 0,
+      "text": "Sure, I'm up for it. Any suggestions?",
+      "timestamp": "2023-01-14T11:55:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 1,
+      "text": "How about a movie night or a day at the beach?",
+      "timestamp": "2023-01-14T12:00:00.000Z"
+    },
+    {
+      "id": 1,
+      "sender_id": 1,
+      "receiver_id": 0,
+      "text": "Both options sound great! Let's decide as we get closer.",
+      "timestamp": "2023-01-14T12:05:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 1,
+      "text": "Sure thing! Looking forward to it.",
+      "timestamp": "2023-01-14T12:10:00.000Z"
+    },
+    {
+      "id": 2,
+      "sender_id": 2,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 2,
+      "text": "I am good too, are you free in friday ?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "sender_id": 2,
+      "receiver_id": 0,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 2,
+      "text": "Alrait see you later",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 3,
+      "text": "Hi John, How are you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "sender_id": 3,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 3,
+      "text": "I am good too, are you free in friday ?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "sender_id": 3,
+      "receiver_id": 0,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 3,
+      "text": "Alrait see you later",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 4,
+      "text": "Hi John, How are you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 4,
+      "sender_id": 4,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 4,
+      "text": "I am good too, are you free in friday ?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 4,
+      "sender_id": 4,
+      "receiver_id": 0,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 4,
+      "text": "Alrait see you later",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 5,
+      "text": "Hi John, How are you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 5,
+      "sender_id": 5,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 5,
+      "text": "I am good too, are you free in friday ?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 5,
+      "sender_id": 5,
+      "receiver_id": 0,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 5,
+      "text": "Alrait see you later",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 6,
+      "sender_id": 6,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 6,
+      "text": "I am good too, are you free in friday ?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 6,
+      "sender_id": 6,
+      "receiver_id": 0,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 6,
+      "text": "Alrait see you later",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 7,
+      "sender_id": 7,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 7,
+      "text": "I am good too, are you free in friday ?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 7,
+      "sender_id": 7,
+      "receiver_id": 0,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 7,
+      "text": "Alrait see you later",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 8,
+      "sender_id": 8,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 8,
+      "text": "I am good too, are you free in friday ?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 8,
+      "sender_id": 8,
+      "receiver_id": 0,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 8,
+      "text": "Alrait see you later",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 9,
+      "sender_id": 9,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 9,
+      "text": "I am good too, are you free in friday ?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 9,
+      "sender_id": 9,
+      "receiver_id": 0,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 9,
+      "text": "Alrait see you later",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 10,
+      "sender_id": 10,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 10,
+      "text": "I am good too, are you free in friday ?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 10,
+      "sender_id": 10,
+      "receiver_id": 0,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 10,
+      "text": "Alrait see you later",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 11,
+      "sender_id": 11,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 11,
+      "text": "I am good too, are you free in friday ?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 11,
+      "sender_id": 11,
+      "receiver_id": 0,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 11,
+      "text": "Alrait see you later",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 12,
+      "sender_id": 12,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 12,
+      "text": "I am good too, are you free in friday ?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 12,
+      "sender_id": 12,
+      "receiver_id": 0,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 12,
+      "text": "Alrait see you later",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 13,
+      "sender_id": 13,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 13,
+      "text": "I am good too, are you free in friday ?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 13,
+      "sender_id": 13,
+      "receiver_id": 0,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 13,
+      "text": "Alrait see you later",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 14,
+      "sender_id": 14,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 14,
+      "text": "I am good too, are you free in friday ?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 14,
+      "sender_id": 14,
+      "receiver_id": 0,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 14,
+      "text": "Alrait see you later",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 15,
+      "sender_id": 15,
+      "receiver_id": 0,
+      "text": "Hi Michael, I am good, how about you?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 15,
+      "text": "I am good too, are you free in friday ?",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 15,
+      "sender_id": 15,
+      "receiver_id": 0,
+      "text": "Yes, let's meet up then",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    },
+    {
+      "id": 0,
+      "sender_id": 0,
+      "receiver_id": 15,
+      "text": "Alrait see you later",
+      "timestamp": "2023-01-14T10:30:00.000Z"
+    }
+  ]
+}
